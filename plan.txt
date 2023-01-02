@@ -1,0 +1,21 @@
+!!!HOZIRGI REJALAR
+2. comment bosilganda kommentlar ko'rsatilib ikonka ko'rinishi o'zgarishi kerak va commentlardan tashqari joyga bosilgan comment bo'limi yopilishi va ikonka avvalgi ko'rinishiga qaytishi kerak
+
+!!!KELAJAKDAGI REJALAR
+1. Saytni responsive qilish. Mobil qurilmalar uchun buttonlar uchun alohida menyu qilish
+2. mezegram.com domenni ulash
+3. Maqola yozish sahifasini o'chirish. Maqola yozish funksiyasini bosh sahifaga joylashtirish
+4. Foydalanuvchilar 1 ga 1 suhbatlashish uchun alohida live chat funksiyasini qo'shish
+5. Foydalanuvchilarga guruh ochish funksiyasini ochish. Guruhni ochgan userga boshqa userlarni qo'shish va olib tashlash huquqini berish va o'zi belgilagan boshqa guruh a'zosiga belgilanga huqularni berish va olib qo'yish
+6. Mashhur userlarni ko'rsatish funksiyasini bosh sahifaga qo'shish
+7. Obuna bo'lgan userlar ro'yhatini ko'rsatish va ular qoldirgan postni ko'rsatadigan sahifa yaratish
+8. Senzura maqsadida postlar va foydalanuvchilarga shikoyat qilish funksiyasini qo'shish. Admin uchun shikoyat qilingan post va userlarni ro'yhatini ko'rsatish uchun sahifa yaratish. reytinggi va qo'shilgan sanasi bo'yicha tartiblash. Postni o'chirish va user bloklash funksiyasi qo'shish
+9. Yozilgan kommentni reply qilib javob qaytarish
+10. Foydalanuvchilarni qidirish bo'limi
+
+
+cd server
+npm run dev
+
+cd client
+npm start
